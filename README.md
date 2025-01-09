@@ -2,7 +2,9 @@ Aplicación Conversor de Monedas
 
 Descripción
 
-Esta aplicación en Java es un conversor de monedas que permite a los usuarios convertir entre varias monedas utilizando la ExchangeRate API. Proporciona un menú intuitivo con opciones para convertir entre monedas como el dólar estadounidense (USD), peso argentino (ARS), real brasileño (BRL) y peso colombiano (COP). Obtiene tasas de cambio en tiempo real y realiza las conversiones según la entrada del usuario.
+Esta aplicación en Java es un conversor de monedas que permite a los usuarios convertir entre varias monedas utilizando la ExchangeRate API.
+Proporciona un menú intuitivo con opciones para convertir entre monedas como el dólar estadounidense (USD), peso argentino (ARS), real brasileño (BRL) y
+peso colombiano (COP). Obtiene tasas de cambio en tiempo real y realiza las conversiones según la entrada del usuario.
 
 Funcionalidades
 
@@ -84,5 +86,5 @@ Jorge Alberto Hernández Ramírez
 
 Licencia
 
-Este proyecto está bajo la licencia MIT. Codigo abierto.-
+Este proyecto está bajo la licencia MIT. Codigo abierto.
 
